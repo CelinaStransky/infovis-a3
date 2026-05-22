@@ -1,0 +1,14 @@
+{
+  "name": "@d3/brushable-scatterplot-matrix",
+  "main": "4710d9b97a7416b3@315.js",
+  "version": "315.0.0",
+  "homepage": "https://observablehq.com/@d3/brushable-scatterplot-matrix",
+  "author": {
+    "name": "D3",
+    "url": "https://observablehq.com/@d3"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4 - 5"
+  }
+}
